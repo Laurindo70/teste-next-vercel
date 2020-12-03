@@ -1,6 +1,8 @@
 function Home(){
     return (
-        <div>Hello World</div>
+        <div>
+            <h1>Primeiro projeto com next Js</h1>
+        </div>
     );
 }
 
